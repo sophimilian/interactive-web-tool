@@ -15,6 +15,7 @@
 `K` to mark known
 
 ## Link to live site 
+- [https://sophimilian.github.io/interactive-web-tool/]
 
 ## What I learned
 - It taught me how JavaScript state actually works; I can now understand that everything on the screen is just a reflection of variables and the job of JavaScript is to update those variables and re-render the page. 
