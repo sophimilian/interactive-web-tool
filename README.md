@@ -2,7 +2,7 @@
 - You type in a question and answer to create a card, then flip through the deck to study. As you go, you can mark cards as known to track progress and filter down to only the ones you still need help learning. 
 
 ## How to use it (brief instructions)
-Type a question in the left field and an answer in the right field
+1. Type a question in the left field and an answer in the right field
 2. Click **+ Add Card** (or press Enter) to add it to your deck
 3. Click the card to flip it and reveal the answer
 4. Use **← Prev** and **Next →** to move through the deck
